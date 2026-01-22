@@ -30,7 +30,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neeraj49yadav&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj49yadav&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=neeraj49yadav&theme=radical" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com?user=neeraj49yadav&theme=radical)
+
 </p>
 
 ## ✨ Fun Facts
