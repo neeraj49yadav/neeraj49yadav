@@ -28,9 +28,9 @@
   
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham7307&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham7307&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=pratham7307&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neeraj49yadav&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeraj49yadav&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=neeraj49yadav&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## ✨ Fun Facts
@@ -42,8 +42,8 @@
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratham-rai-92a446327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7q8WHbqRT1inH5EH0XGEWA%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mraipratham8957@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href=" "><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 > “Simplicity is the soul of efficiency.” – Austin Freeman
